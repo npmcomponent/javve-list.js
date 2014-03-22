@@ -1,6 +1,6 @@
-var events = require('events'),
-    getByClass = require('get-by-class'),
-    toString = require('to-string');
+var events = require('javve-events'),
+    getByClass = require('javve-get-by-class'),
+    toString = require('javve-to-string');
 
 module.exports = function(list) {
     var item,

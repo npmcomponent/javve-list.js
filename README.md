@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [javve/list.js](http://github.com/javve/list.js). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/javve-list.js`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # List.js
 Perfect library for adding **search**, **sort**, **filters** and **flexibility** to
 **tables**, **lists** and various HTML elements. Built to be invisible and work on existing HTML.

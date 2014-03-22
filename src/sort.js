@@ -1,8 +1,8 @@
-var naturalSort = require('natural-sort'),
-    classes = require('classes'),
-    events = require('events'),
-    getByClass = require('get-by-class'),
-    getAttribute = require('get-attribute');
+var naturalSort = require('javve-natural-sort'),
+    classes = require('component-classes'),
+    events = require('javve-events'),
+    getByClass = require('javve-get-by-class'),
+    getAttribute = require('javve-get-attribute');
 
 module.exports = function(list) {
     list.sortFunction = list.sortFunction || function(itemA, itemB, options) {

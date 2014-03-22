@@ -6,9 +6,9 @@ By Jonny Strömberg (www.jonnystromberg.com, www.listjs.com)
 "use strict";
 
 var document = window.document,
-    getByClass = require('get-by-class'),
-    extend = require('extend'),
-    indexOf = require('indexof');
+    getByClass = require('javve-get-by-class'),
+    extend = require('segmentio-extend'),
+    indexOf = require('component-indexof');
 
 var List = function(id, options, values) {
 
